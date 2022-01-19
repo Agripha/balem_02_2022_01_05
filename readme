@@ -1,0 +1,6 @@
+rviz
+urdf
+
+base : z-arm922
+
+joint control
